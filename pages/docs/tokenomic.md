@@ -15,7 +15,7 @@ export default function Tokenomics({ source }) {
 }
 
 export async function getStaticProps() {
-  const filePath = path.join(process.cwd(), 'docs', 'tokenomic.md')
+  const filePath = path.join(process.cwd(), 'docs', 'tokenomics.md')
   const source = fs.readFileSync(filePath, 'utf8')
   const mdxSource = await serialize(source)
   return { props: { source: mdxSource } }
