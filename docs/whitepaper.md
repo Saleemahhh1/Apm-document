@@ -1,4 +1,4 @@
-# 📘 FULL WHITEPAPER (Professional Version)
+# 📘 FULL WHITEPAPER
 ## AGRO PREDICT – DECENTRALIZED AGRO-PREDICTION MARKET
 
 ### Version 1.2  
