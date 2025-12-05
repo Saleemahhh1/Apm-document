@@ -9,6 +9,7 @@ export default function Sidebar() {
     { href: '/docs/tokenomics', label: 'Tokenomics' },
     { href: '/docs/roadmap', label: 'Roadmap' },
     { href: '/docs/team', label: 'Team' },
+    { href: '/docs/vesting', label: 'Vesting' },
     { href: '/docs/faq', label: 'FAQ' }
   ]
 
