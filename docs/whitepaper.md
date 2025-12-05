@@ -61,7 +61,8 @@ Users stake **APM tokens**, submit predictions, and earn rewards for accuracy.
 - **MarketFactory.sol** – deploys new markets  
 - **PredictionMarket.sol** – logic for predictions, staking, rewards  
 - **APMToken.sol** – native utility token
-- **VestingManager.sol** - included for 6 month to 12 months 
+- **VestingManager.sol** - included for 6 month to 12 months
+- **liquiditylocker.sol** - LP liquidity locked
 
 ## 4.2 Frontend
 - React + Next.js  
