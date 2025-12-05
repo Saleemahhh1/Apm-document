@@ -10,6 +10,7 @@ export default function Sidebar() {
     { href: '/docs/roadmap', label: 'Roadmap' },
     { href: '/docs/team', label: 'Team' },
     { href: '/docs/vesting', label: 'Vesting' },
+    { href:`/docs/liquidity-locker`, label: `Liquidity Locker`},
     { href: '/docs/faq', label: 'FAQ' }
   ]
 
