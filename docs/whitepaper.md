@@ -60,7 +60,8 @@ Users stake **APM tokens**, submit predictions, and earn rewards for accuracy.
 ## 4.1 Smart Contracts
 - **MarketFactory.sol** – deploys new markets  
 - **PredictionMarket.sol** – logic for predictions, staking, rewards  
-- **APMToken.sol** – native utility token  
+- **APMToken.sol** – native utility token
+- **VestingManager.sol** - included for 6 month to 12 months 
 
 ## 4.2 Frontend
 - React + Next.js  
