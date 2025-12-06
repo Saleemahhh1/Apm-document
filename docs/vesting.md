@@ -10,7 +10,7 @@ Below is the complete breakdown of how each allocation vests, why it exists, and
 
 | Detail | Schedule |
 |-------|----------|
-| TGE Unlock | **10%** |
+| TGE Unlock | ***100%** |
 | Cliff | None |
 | Vesting | **6 months linear** |
 
@@ -23,8 +23,8 @@ Designed to give early users fair distribution while preventing early dumping.
 | Detail | Schedule |
 |-------|----------|
 | TGE Unlock | **0%** |
-| Cliff | **12 months** |
-| Vesting | **24 months linear** |
+| Cliff | **3 months** |
+| Vesting | **6 months linear** |
 
 Ensures team commitment, long-term alignment, and investor protection.
 
@@ -36,7 +36,7 @@ Ensures team commitment, long-term alignment, and investor protection.
 |-------|----------|
 | TGE Unlock | **10%** |
 | Cliff | None |
-| Vesting | **36 months linear** |
+| Vesting | ** 6 months linear** |
 
 Used for operations, audits, grants, and future development.
 
@@ -47,8 +47,8 @@ Used for operations, audits, grants, and future development.
 | Detail | Schedule |
 |-------|----------|
 | TGE Unlock | 0% |
-| Cliff | **3–6 months** |
-| Vesting | **12 months linear** |
+| Cliff | **3 months** |
+| Vesting | **6 months linear** |
 
 Ensures genuine value from partners before tokens unlock.
 
@@ -76,7 +76,7 @@ Used for:
 | Detail | Schedule |
 |-------|----------|
 | TGE Unlock | **100%** (LP creation) |
-| LP Lock | **12 months** |
+| LP Lock | **6 months** |
 | Vesting | None |
 
 Ensures strong market stability and trust.
