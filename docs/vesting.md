@@ -98,7 +98,7 @@ This guarantees zero manual interference and protects long-term value.
 
 | Allocation | % | TGE | Cliff | Vesting | Notes |
 |-----------|----|-----|-------|---------|-------|
-| Public Sale | 20% | 10% | None | 6m linear | Fair distribution |
+| Public Sale | 20% | 100% | None | 6m linear | Fair distribution |
 | Team | 12% | 0% | 12m | 24m linear | Long-term alignment |
 | Treasury | 13% | 10% | None | 36m linear | Operational growth |
 | Partnerships | 10% | 0% | 3–6m | 12m linear | Strategic value |
